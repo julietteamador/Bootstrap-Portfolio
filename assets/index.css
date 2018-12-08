@@ -1,0 +1,30 @@
+h1 {
+    color: teal;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    width: 100%;
+    padding: 40px;
+    clear: both;
+    min-height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(assets/images/folk-pattern/folk-pattern.png)
+} 
+.cardbody{
+    background-color: white;
+    width: 70%;
+    padding: 5%;
+    margin: 0 auto;
+}
+img {
+    float: left;
+    padding: 3%;
+}
+body{
+    background-image: url(./Images/morocco/morocco.png)
+}
+.card-footer {
+    text-align: center;
+}

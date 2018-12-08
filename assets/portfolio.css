@@ -1,0 +1,9 @@
+h1 {
+    color: teal;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-footer {
+    text-align: center;
+}
