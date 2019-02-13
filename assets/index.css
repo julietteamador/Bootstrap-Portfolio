@@ -27,4 +27,9 @@ body{
 }
 .card-footer {
     text-align: center;
+    position: fixed;
+    text-align: center;
+    left:0px;
+    bottom:0px;
+    width:100%;
 }
