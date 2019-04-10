@@ -1,0 +1,41 @@
+h1 {
+    color: teal;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+    font-family: 'Dancing Script', cursive;
+}
+
+body{
+    background-image: url(./Images/morocco/morocco.png)
+}
+
+.card-footer {
+    text-align: center;
+    position: fixed;
+    text-align: center;
+    left:0px;
+    bottom:0px;
+    width:100%;
+}
+
+.name{
+    font-family:  'Dancing Script', cursive;
+    font-size: 35px;
+    color: teal;
+}
+
+.container{
+    width: 100%;
+    padding: 40px;
+    clear: both;
+    min-height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(assets/images/folk-pattern/folk-pattern.png);
+    background: white;
+    box-sizing: border-box;
+    padding: 2%;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=20);
+    opacity: 0.7;
+    margin-top: 2%;
+} 
