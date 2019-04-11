@@ -23,3 +23,9 @@ img{
 body{
     background-image: url(./Images/morocco/morocco.png)
 }
+
+.name{
+    font-family:  'Dancing Script', cursive;
+    font-size: 35px;
+    color: teal;
+}
